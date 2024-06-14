@@ -21,5 +21,20 @@ Update Board:-Update  the game board with the player move
 check for win:- check if current player has won
 check for draw:-Determine if the game is a draw
 switch player:- Alternate turn between 'X' and 'O' players
+
+
+
+#Completion Certificate
+
+
+
+![certificate](https://github.com/arpitp1234/CodSoft_intership/assets/92322250/8bc21375-75c8-4e21-82d1-f0f386b24528)
+
+
+
+
+
+
+
 Display Result:Show the result of the game (win ,draw or ongoing)
 Play again:-Ask if the player want to play to another game.
